@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @aakashvishwakarma
-- 👀 I’m interested in AWS 
-- 🌱 I’m currently learning AWS DevOps
-- 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me ...
-
-<!---
-aakashvishwakarma/aakashvishwakarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in AWS , Docker, Kubernetes, Python, Helm and other new techs in market which helps in automating the day to day task.
+- 🌱 I’m currently learning AWS DevOps and I m AWS Certified.
+- 💞️ I’m looking to collaborate on AWS, Python, Docker, Kubernetes and new tech stacks or ideas.
+- 📫 How to reach me via Linkedin at : www.linkedin.com/in/aakash-vishwakarma
