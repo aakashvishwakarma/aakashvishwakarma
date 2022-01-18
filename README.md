@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakashvishwakarma
 - 👀 I’m interested in AWS , Docker, Kubernetes, Python, Helm and other new techs in market which helps in automating the day to day task.
-- 🌱 I’m currently learning AWS DevOps and I m AWS Certified.
+- 🌱 I’m currently learning AWS DevOps and I m 2x AWS Certified.
 - 💞️ I’m looking to collaborate on AWS, Python, Docker, Kubernetes and new tech stacks or ideas.
 - 📫 How to reach me via Linkedin at : www.linkedin.com/in/aakash-vishwakarma
